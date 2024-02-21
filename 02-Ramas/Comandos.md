@@ -19,3 +19,6 @@
 
 # comando para unir ramas
 . git merge nombre rama
+
+# como crea comando
+git config --global alias.lg 'log oneline'
