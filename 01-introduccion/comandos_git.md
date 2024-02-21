@@ -26,9 +26,15 @@ Comando para ver todas las versiones de mi proyecto
 - git log
 - git log --oneline
 
+Comando para volver a la version anterior
+- git checkout "id al que se quiere devolver o nombre de la rama" 
+- git checkout -- . (Me devuelve a la ultima version)
+
 Pasos para crear una version de mi codigo
 1. Agregar cambios
 -git add . (si se quiere agregar solo un archivo git add *.js - homa.html)
 
 2. comprometer los archivos
 - git commit -m "Descripcion del commit"
+
+
