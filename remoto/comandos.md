@@ -10,3 +10,6 @@
 
 # comando para borrar la conexion
 - git remote remove "nombre de la conexion"
+
+# comando para subir informacion al github
+- git push -u origin main
